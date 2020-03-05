@@ -1,7 +1,7 @@
 
 # Collaboration across time and space in LTER Network
 
-This repo shares parts of codes and supplementary tables about research of <10.1093/biosci/biaa014>.
+This repo shares parts of codes and supplementary tables about research of 10.1093/biosci/biaa014.
 
 ## ABSTRACT
 The scale of ecological research is getting larger and larger. At such scales, collaboration is indispensable, but there is little consensus on what factors enable collaboration. In the present article, we investigated the temporal and spatial pattern of institutional collaboration within the US
